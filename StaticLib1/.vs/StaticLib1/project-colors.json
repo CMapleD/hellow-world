@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32382101-2f0c-421e-9495-126ff51242dd": {
+      "ProjectGuid": "32382101-2f0c-421e-9495-126ff51242dd",
+      "DisplayName": "StaticLib1",
+      "ColorIndex": 0
+    },
+    "066dbab8-9ca4-48ea-bb23-615d955e03d2": {
+      "ProjectGuid": "066dbab8-9ca4-48ea-bb23-615d955e03d2",
+      "DisplayName": "MathLinearCaculate",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

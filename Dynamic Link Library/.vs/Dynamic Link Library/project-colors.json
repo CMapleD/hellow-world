@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d041e29c-7bfc-410a-a800-cf358adb15b7": {
+      "ProjectGuid": "d041e29c-7bfc-410a-a800-cf358adb15b7",
+      "DisplayName": "Dynamic Link Library",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

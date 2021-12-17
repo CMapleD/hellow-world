@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLinear.cpp
+E:\Vs\Project\Dynamic Link Library\MathLinear.cpp(15,6): warning C4273: “fibonacci_init”: dll 链接不一致
+E:\Vs\Project\Dynamic Link Library\MathLinear.h(20,32): message : 参见“fibonacci_init”的前一个定义
+E:\Vs\Project\Dynamic Link Library\MathLinear.cpp(26,6): warning C4273: “fibonacci_next”: dll 链接不一致
+E:\Vs\Project\Dynamic Link Library\MathLinear.h(26,32): message : 参见“fibonacci_next”的前一个定义
+E:\Vs\Project\Dynamic Link Library\MathLinear.cpp(47,20): warning C4273: “fibonacci_current”: dll 链接不一致
+E:\Vs\Project\Dynamic Link Library\MathLinear.h(29,46): message : 参见“fibonacci_current”的前一个定义
+E:\Vs\Project\Dynamic Link Library\MathLinear.cpp(53,10): warning C4273: “fibonacci_index”: dll 链接不一致
+E:\Vs\Project\Dynamic Link Library\MathLinear.h(32,36): message : 参见“fibonacci_index”的前一个定义
+  正在生成代码...
+    正在创建库 E:\Vs\Project\Dynamic Link Library\x64\Debug\MathLinear.lib 和对象 E:\Vs\Project\Dynamic Link Library\x64\Debug\MathLinear.exp
+  Dynamic Link Library.vcxproj -> E:\Vs\Project\Dynamic Link Library\x64\Debug\MathLinear.dll
